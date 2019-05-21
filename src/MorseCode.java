@@ -43,4 +43,5 @@ public interface MorseCode {
     public static final String PERIOD = ".-.-.-";
     public static final String COMMA = "--..--";
     public static final String QUESTION_MARK = "..--..";
+    public static final String QUIT = "QUIT";
 }
