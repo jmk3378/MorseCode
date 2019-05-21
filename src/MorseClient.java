@@ -6,6 +6,12 @@ import java.net.Socket;
 import java.util.HashMap;
 import java.util.Scanner;
 
+/**
+ * jmk3378 @rit
+ *
+ * MorseClient is a work in progress to create a java program which can convert strings to morse code and sends it
+ * using a print stream to another client or server.
+ */
 public class MorseClient {
 
     //HashMap<String, MorseCode> AlphaToMorse;
