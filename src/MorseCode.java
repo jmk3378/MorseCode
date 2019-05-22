@@ -43,5 +43,12 @@ public interface MorseCode {
     public static final String PERIOD = ".-.-.-";
     public static final String COMMA = "--..--";
     public static final String QUESTION_MARK = "..--..";
+    public static final String NEW_LINE = ".-.-";
+    public static final String End = ".-.-.";
+    public static final String BREAK = "-...-.-";
+    public static final String NEW_PARAGRAPH = "-...-";
     public static final String QUIT = "QUIT";
+    public static final String LETTER_SPACE = "   ";
+    public static final String WORD_SPACE = "       ";
+
 }
